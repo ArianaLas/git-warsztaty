@@ -1,0 +1,4 @@
+class Klasa {
+	public:
+		Klasa();
+}
